@@ -25,7 +25,7 @@ def usage():
     print("yuno.py -t 192.168.0.1 -p 5555 -l -c")
     print("yuno.py -t 192.168.0.1 -p 5555 -l -u=c:\\ziel.exe")
     print("yuno.py -t 192.168.0.1 -p 5555 -l -e=\"cat /etc/passwd\"")
-    print("echo 'ABCDEFGHI' | ./yuno.py -t 192.168.0.1 -p 135")
+    print("echo 'ABCDEFGHI' | ./yuno.py -t 192.168.... -p 135")
 
 def main():
     global listen
